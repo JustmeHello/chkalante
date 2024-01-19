@@ -1,0 +1,688 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.6
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=741521476879752&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\tr
+Content Type: text/plain
+
+Uri: https://www.packexitoso.com/
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\index.htm
+Content Type: text/html
+
+Uri: https://www.packexitoso.com/comments/feed/
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.packexitoso.com/feed/
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.packexitoso.com/wp-content/plugins/advanced-scrollbar/js/jquery.nicescroll.min.js?ver=20120206
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\advanced-scrollbar\js\jquery.nicescroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.packexitoso.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-content/themes/hello-elementor/style.min.css?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.5.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/credit-card-min-1-300x37.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\credit-card-min-1-300x37.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/credit-card-min-1.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\credit-card-min-1.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/cropped-cropped-Elementor-Logo-Symbol-Red-180x180.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\cropped-cropped-Elementor-Logo-Symbol-Red-180x180.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/cropped-cropped-Elementor-Logo-Symbol-Red-192x192.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\cropped-cropped-Elementor-Logo-Symbol-Red-192x192.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/cropped-cropped-Elementor-Logo-Symbol-Red-32x32.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\cropped-cropped-Elementor-Logo-Symbol-Red-32x32.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/garantia-7-d-1-242x300.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\garantia-7-d-1-242x300.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/garantia-7-d-1.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\garantia-7-d-1.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/MOCKUP-300x225.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\MOCKUP-300x225.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/mockup-mobile-4-300x200.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\mockup-mobile-4-300x200.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/mockup-mobile-4-768x512.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\mockup-mobile-4-768x512.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/mockup-mobile-4.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\mockup-mobile-4.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/MOCKUP.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\MOCKUP.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-chronus-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-chronus-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-cigarrete-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-cigarrete-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-emagrecer-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-emagrecer-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-emagrecer-169x300-2.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-emagrecer-169x300-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-grocery-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-grocery-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-izca-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-izca-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-izca-169x300-2.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-izca-169x300-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-nougoy-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-nougoy-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-secret-169x300-2.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-secret-169x300-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-shopee-169x300-1.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-shopee-169x300-1.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-temyes-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-temyes-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-veloza-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-veloza-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-vonror-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-vonror-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-vsl-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-vsl-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/modelo-vsl-169x300-2.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\modelo-vsl-169x300-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/pack-exitoso-png-min-300x119.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\pack-exitoso-png-min-300x119.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/pack-exitoso-png-min.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\pack-exitoso-png-min.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/packdeventas-300x236.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\packdeventas-300x236.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2022/06/packdeventas.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2022\06\packdeventas.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-1-252x300.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-1-252x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-2-252x300.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-2-252x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-2.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-3-252x300.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-3-252x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-3.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-4-252x300.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-4-252x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-4.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-5-252x300.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-5-252x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/01/review-pack-exitoso-5.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\01\review-pack-exitoso-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/bg_black_perfectpages-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\bg_black_perfectpages-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/modelo-legacy-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\modelo-legacy-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/modelo-matrix-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\modelo-matrix-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/modelo-travel-169x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\modelo-travel-169x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/ww2w-1024x608.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\ww2w-1024x608.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/ww2w-300x178.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\ww2w-300x178.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/ww2w-768x456.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\ww2w-768x456.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/05/ww2w.webp
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\05\ww2w.webp
+Content Type: image/webp
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/10-4-min-1024x1024.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\10-4-min-1024x1024.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/10-4-min-150x150.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\10-4-min-150x150.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/10-4-min-300x300.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\10-4-min-300x300.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/10-4-min-768x768.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\10-4-min-768x768.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/10-4-min.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\10-4-min.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/download-1-150x150.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\download-1-150x150.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/download-1-300x300.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\download-1-300x300.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/download-1-768x768.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\download-1-768x768.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/2023/06/download-1.png
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\2023\06\download-1.png
+Content Type: image/png
+
+Uri: https://www.packexitoso.com/wp-content/uploads/elementor/css/global.css?ver=1657763981
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/uploads/elementor/css/post-237.css?ver=1701712773
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\elementor\css\post-237.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-content/uploads/elementor/css/post-7.css?ver=1657763981
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.6
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.packexitoso.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.packexitoso.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.packexitoso.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.packexitoso.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.packexitoso.com%2F
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.packexitoso.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.packexitoso.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.packexitoso.com/wp-json/wp/v2/pages/237
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\wp-json\wp\v2\pages\237
+Content Type: application/json
+
+Uri: https://www.packexitoso.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.packexitoso.com\xmlrpc.php
+Content Type: text/xml
+
